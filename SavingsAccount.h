@@ -1,5 +1,4 @@
 // Fady Fahmy
-// Csci 272 02(43123)
 // SavingsAccount.h
 
 #ifndef SAVINGS_ACCOUNT_H
